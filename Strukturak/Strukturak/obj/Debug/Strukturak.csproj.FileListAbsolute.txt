@@ -1,0 +1,9 @@
+F:\Új mappa\C# webuni\Strukturak\Strukturak\bin\Debug\Strukturak.exe.config
+F:\Új mappa\C# webuni\Strukturak\Strukturak\bin\Debug\Strukturak.exe
+F:\Új mappa\C# webuni\Strukturak\Strukturak\bin\Debug\Strukturak.pdb
+F:\Új mappa\C# webuni\Strukturak\Strukturak\obj\Debug\Strukturak.csproj.AssemblyReference.cache
+F:\Új mappa\C# webuni\Strukturak\Strukturak\obj\Debug\Strukturak.csproj.SuggestedBindingRedirects.cache
+F:\Új mappa\C# webuni\Strukturak\Strukturak\obj\Debug\Strukturak.csproj.CoreCompileInputs.cache
+F:\Új mappa\C# webuni\Strukturak\Strukturak\obj\Debug\Strukturak.exe
+F:\Új mappa\C# webuni\Strukturak\Strukturak\obj\Debug\Strukturak.pdb
+F:\Új mappa\C# webuni\Strukturak\Strukturak\bin\Debug\pc_list.txt

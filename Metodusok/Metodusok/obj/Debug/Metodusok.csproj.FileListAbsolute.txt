@@ -1,0 +1,8 @@
+F:\Új mappa\C# webuni\Metodusok\Metodusok\bin\Debug\Metodusok.exe.config
+F:\Új mappa\C# webuni\Metodusok\Metodusok\bin\Debug\Metodusok.exe
+F:\Új mappa\C# webuni\Metodusok\Metodusok\bin\Debug\Metodusok.pdb
+F:\Új mappa\C# webuni\Metodusok\Metodusok\obj\Debug\Metodusok.csproj.AssemblyReference.cache
+F:\Új mappa\C# webuni\Metodusok\Metodusok\obj\Debug\Metodusok.csproj.SuggestedBindingRedirects.cache
+F:\Új mappa\C# webuni\Metodusok\Metodusok\obj\Debug\Metodusok.csproj.CoreCompileInputs.cache
+F:\Új mappa\C# webuni\Metodusok\Metodusok\obj\Debug\Metodusok.exe
+F:\Új mappa\C# webuni\Metodusok\Metodusok\obj\Debug\Metodusok.pdb

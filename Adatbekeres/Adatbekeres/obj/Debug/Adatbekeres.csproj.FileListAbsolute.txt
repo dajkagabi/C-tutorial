@@ -1,0 +1,8 @@
+F:\Új mappa\C# webuni\Adatbekeres\Adatbekeres\bin\Debug\Adatbekeres.exe.config
+F:\Új mappa\C# webuni\Adatbekeres\Adatbekeres\bin\Debug\Adatbekeres.exe
+F:\Új mappa\C# webuni\Adatbekeres\Adatbekeres\bin\Debug\Adatbekeres.pdb
+F:\Új mappa\C# webuni\Adatbekeres\Adatbekeres\obj\Debug\Adatbekeres.csproj.AssemblyReference.cache
+F:\Új mappa\C# webuni\Adatbekeres\Adatbekeres\obj\Debug\Adatbekeres.csproj.SuggestedBindingRedirects.cache
+F:\Új mappa\C# webuni\Adatbekeres\Adatbekeres\obj\Debug\Adatbekeres.csproj.CoreCompileInputs.cache
+F:\Új mappa\C# webuni\Adatbekeres\Adatbekeres\obj\Debug\Adatbekeres.exe
+F:\Új mappa\C# webuni\Adatbekeres\Adatbekeres\obj\Debug\Adatbekeres.pdb

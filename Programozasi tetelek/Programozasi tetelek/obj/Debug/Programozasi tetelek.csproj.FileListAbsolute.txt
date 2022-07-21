@@ -1,0 +1,8 @@
+F:\Új mappa\C# webuni\Programozasi tetelek\Programozasi tetelek\bin\Debug\Programozasi tetelek.exe.config
+F:\Új mappa\C# webuni\Programozasi tetelek\Programozasi tetelek\bin\Debug\Programozasi tetelek.exe
+F:\Új mappa\C# webuni\Programozasi tetelek\Programozasi tetelek\bin\Debug\Programozasi tetelek.pdb
+F:\Új mappa\C# webuni\Programozasi tetelek\Programozasi tetelek\obj\Debug\Programozasi tetelek.csproj.AssemblyReference.cache
+F:\Új mappa\C# webuni\Programozasi tetelek\Programozasi tetelek\obj\Debug\Programozasi tetelek.csproj.SuggestedBindingRedirects.cache
+F:\Új mappa\C# webuni\Programozasi tetelek\Programozasi tetelek\obj\Debug\Programozasi tetelek.csproj.CoreCompileInputs.cache
+F:\Új mappa\C# webuni\Programozasi tetelek\Programozasi tetelek\obj\Debug\Programozasi tetelek.exe
+F:\Új mappa\C# webuni\Programozasi tetelek\Programozasi tetelek\obj\Debug\Programozasi tetelek.pdb

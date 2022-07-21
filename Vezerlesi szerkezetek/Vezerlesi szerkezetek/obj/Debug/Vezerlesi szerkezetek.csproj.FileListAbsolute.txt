@@ -1,0 +1,8 @@
+D:\C# webuni\Vezerlesi szerkezetek\Vezerlesi szerkezetek\bin\Debug\Vezerlesi szerkezetek.exe.config
+D:\C# webuni\Vezerlesi szerkezetek\Vezerlesi szerkezetek\bin\Debug\Vezerlesi szerkezetek.exe
+D:\C# webuni\Vezerlesi szerkezetek\Vezerlesi szerkezetek\bin\Debug\Vezerlesi szerkezetek.pdb
+D:\C# webuni\Vezerlesi szerkezetek\Vezerlesi szerkezetek\obj\Debug\Vezerlesi szerkezetek.csproj.AssemblyReference.cache
+D:\C# webuni\Vezerlesi szerkezetek\Vezerlesi szerkezetek\obj\Debug\Vezerlesi szerkezetek.csproj.SuggestedBindingRedirects.cache
+D:\C# webuni\Vezerlesi szerkezetek\Vezerlesi szerkezetek\obj\Debug\Vezerlesi szerkezetek.csproj.CoreCompileInputs.cache
+D:\C# webuni\Vezerlesi szerkezetek\Vezerlesi szerkezetek\obj\Debug\Vezerlesi szerkezetek.exe
+D:\C# webuni\Vezerlesi szerkezetek\Vezerlesi szerkezetek\obj\Debug\Vezerlesi szerkezetek.pdb

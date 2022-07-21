@@ -1,0 +1,8 @@
+F:\Új mappa\C# webuni\Fajlkezeles\Fajlkezeles\bin\Debug\Fajlkezeles.exe.config
+F:\Új mappa\C# webuni\Fajlkezeles\Fajlkezeles\bin\Debug\Fajlkezeles.exe
+F:\Új mappa\C# webuni\Fajlkezeles\Fajlkezeles\bin\Debug\Fajlkezeles.pdb
+F:\Új mappa\C# webuni\Fajlkezeles\Fajlkezeles\obj\Debug\Fajlkezeles.csproj.AssemblyReference.cache
+F:\Új mappa\C# webuni\Fajlkezeles\Fajlkezeles\obj\Debug\Fajlkezeles.csproj.SuggestedBindingRedirects.cache
+F:\Új mappa\C# webuni\Fajlkezeles\Fajlkezeles\obj\Debug\Fajlkezeles.csproj.CoreCompileInputs.cache
+F:\Új mappa\C# webuni\Fajlkezeles\Fajlkezeles\obj\Debug\Fajlkezeles.exe
+F:\Új mappa\C# webuni\Fajlkezeles\Fajlkezeles\obj\Debug\Fajlkezeles.pdb

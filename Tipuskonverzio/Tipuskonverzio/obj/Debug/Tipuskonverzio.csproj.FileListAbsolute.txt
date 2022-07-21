@@ -1,0 +1,8 @@
+F:\Új mappa\C# webuni\Tipuskonverzio\Tipuskonverzio\bin\Debug\Tipuskonverzio.exe.config
+F:\Új mappa\C# webuni\Tipuskonverzio\Tipuskonverzio\bin\Debug\Tipuskonverzio.exe
+F:\Új mappa\C# webuni\Tipuskonverzio\Tipuskonverzio\bin\Debug\Tipuskonverzio.pdb
+F:\Új mappa\C# webuni\Tipuskonverzio\Tipuskonverzio\obj\Debug\Tipuskonverzio.csproj.AssemblyReference.cache
+F:\Új mappa\C# webuni\Tipuskonverzio\Tipuskonverzio\obj\Debug\Tipuskonverzio.csproj.SuggestedBindingRedirects.cache
+F:\Új mappa\C# webuni\Tipuskonverzio\Tipuskonverzio\obj\Debug\Tipuskonverzio.csproj.CoreCompileInputs.cache
+F:\Új mappa\C# webuni\Tipuskonverzio\Tipuskonverzio\obj\Debug\Tipuskonverzio.exe
+F:\Új mappa\C# webuni\Tipuskonverzio\Tipuskonverzio\obj\Debug\Tipuskonverzio.pdb

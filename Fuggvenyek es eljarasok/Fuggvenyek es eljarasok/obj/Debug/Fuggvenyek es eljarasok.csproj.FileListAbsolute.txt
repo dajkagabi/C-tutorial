@@ -1,0 +1,8 @@
+D:\C# webuni\Fuggvenyek es eljarasok\Fuggvenyek es eljarasok\bin\Debug\Fuggvenyek es eljarasok.exe.config
+D:\C# webuni\Fuggvenyek es eljarasok\Fuggvenyek es eljarasok\bin\Debug\Fuggvenyek es eljarasok.exe
+D:\C# webuni\Fuggvenyek es eljarasok\Fuggvenyek es eljarasok\bin\Debug\Fuggvenyek es eljarasok.pdb
+D:\C# webuni\Fuggvenyek es eljarasok\Fuggvenyek es eljarasok\obj\Debug\Fuggvenyek es eljarasok.csproj.AssemblyReference.cache
+D:\C# webuni\Fuggvenyek es eljarasok\Fuggvenyek es eljarasok\obj\Debug\Fuggvenyek es eljarasok.csproj.SuggestedBindingRedirects.cache
+D:\C# webuni\Fuggvenyek es eljarasok\Fuggvenyek es eljarasok\obj\Debug\Fuggvenyek es eljarasok.csproj.CoreCompileInputs.cache
+D:\C# webuni\Fuggvenyek es eljarasok\Fuggvenyek es eljarasok\obj\Debug\Fuggvenyek es eljarasok.exe
+D:\C# webuni\Fuggvenyek es eljarasok\Fuggvenyek es eljarasok\obj\Debug\Fuggvenyek es eljarasok.pdb

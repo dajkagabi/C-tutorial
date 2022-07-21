@@ -1,0 +1,8 @@
+F:\Új mappa\C# webuni\Generitikusok\Generitikusok\bin\Debug\Generitikusok.exe.config
+F:\Új mappa\C# webuni\Generitikusok\Generitikusok\bin\Debug\Generitikusok.exe
+F:\Új mappa\C# webuni\Generitikusok\Generitikusok\bin\Debug\Generitikusok.pdb
+F:\Új mappa\C# webuni\Generitikusok\Generitikusok\obj\Debug\Generitikusok.csproj.AssemblyReference.cache
+F:\Új mappa\C# webuni\Generitikusok\Generitikusok\obj\Debug\Generitikusok.csproj.SuggestedBindingRedirects.cache
+F:\Új mappa\C# webuni\Generitikusok\Generitikusok\obj\Debug\Generitikusok.csproj.CoreCompileInputs.cache
+F:\Új mappa\C# webuni\Generitikusok\Generitikusok\obj\Debug\Generitikusok.exe
+F:\Új mappa\C# webuni\Generitikusok\Generitikusok\obj\Debug\Generitikusok.pdb

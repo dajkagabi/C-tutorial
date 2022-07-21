@@ -1,0 +1,6 @@
+ - csiga
+ - kakaó
+ - tej
+ - vaj
+ - alma
+ - répa

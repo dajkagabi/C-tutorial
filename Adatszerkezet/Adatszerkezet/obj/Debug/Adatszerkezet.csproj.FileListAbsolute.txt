@@ -1,0 +1,8 @@
+D:\C# webuni\Adatszerkezet\Adatszerkezet\bin\Debug\Adatszerkezet.exe.config
+D:\C# webuni\Adatszerkezet\Adatszerkezet\bin\Debug\Adatszerkezet.exe
+D:\C# webuni\Adatszerkezet\Adatszerkezet\bin\Debug\Adatszerkezet.pdb
+D:\C# webuni\Adatszerkezet\Adatszerkezet\obj\Debug\Adatszerkezet.csproj.AssemblyReference.cache
+D:\C# webuni\Adatszerkezet\Adatszerkezet\obj\Debug\Adatszerkezet.csproj.SuggestedBindingRedirects.cache
+D:\C# webuni\Adatszerkezet\Adatszerkezet\obj\Debug\Adatszerkezet.csproj.CoreCompileInputs.cache
+D:\C# webuni\Adatszerkezet\Adatszerkezet\obj\Debug\Adatszerkezet.exe
+D:\C# webuni\Adatszerkezet\Adatszerkezet\obj\Debug\Adatszerkezet.pdb
